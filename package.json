@@ -1,0 +1,14 @@
+{
+  "name": "warpbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nilsen84",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mineflayer": "^4.3.0",
+    "tail": "^2.2.4"
+  }
+}
